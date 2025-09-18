@@ -57,10 +57,10 @@ The dashboard provides **insights for healthcare analysis and decision-making** 
 ## 📸 Dashboard Preview  
 
 ### Dashboard 1 – Patient Overview  
-![Dashboard 1](./images/dashboard1.png)  
+![Dashboard 1](./images/DASHBOARD1.png)  
 
 ### Dashboard 2 – Hospital & Cost Analysis  
-![Dashboard 2](./images/dashboard2.png)  
+![Dashboard 2](./images/DASHBOARD2.png)  
 
 ---
 
@@ -68,4 +68,4 @@ The dashboard provides **insights for healthcare analysis and decision-making** 
 
 1. Clone this repository:  
    ```bash
-  
+  https://github.com/GauravSakpa/Cancer_patient_Dashboard.git
