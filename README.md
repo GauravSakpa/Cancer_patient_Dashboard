@@ -57,10 +57,10 @@ The dashboard provides **insights for healthcare analysis and decision-making** 
 ## 📸 Dashboard Preview  
 
 ### Dashboard 1 – Patient Overview  
-![Dashboard 1](./images/DASHBOARD1.png)  
+![Dashboard 1](.DASHBOARD1.png)  
 
 ### Dashboard 2 – Hospital & Cost Analysis  
-![Dashboard 2](./images/DASHBOARD2.png)  
+![Dashboard 2](.DASHBOARD2.png)  
 
 ---
 
