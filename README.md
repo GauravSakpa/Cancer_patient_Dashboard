@@ -57,7 +57,7 @@ The dashboard provides **insights for healthcare analysis and decision-making** 
 ## 📸 Dashboard Preview  
 
 ### Dashboard 1 – Patient Overview  
-![Dashboard 1](.DASHBOARD1.png)  
+![Dashboard 1]([.DASHBOARD1.png](https://github.com/GauravSakpa/Cancer_patient_Dashboard/blob/main/DASHBOARD1.png))  
 
 ### Dashboard 2 – Hospital & Cost Analysis  
 ![Dashboard 2](.DASHBOARD2.png)  
